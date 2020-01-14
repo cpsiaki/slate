@@ -14,7 +14,7 @@ includes:
 search: true
 ---
 
-# Introduction asdf
+# Introduction
 
 Welcome to the CMC/ESM API! You can use our API to access CMC/ESM API endpoints.
 
